@@ -1,7 +1,8 @@
 package com.siva.utility;
 
 /**
- * ArrayUtils is a utility for having different search operations to be performed on arrays 
+ * ArrayUtils is a utility for having different search operations to be
+ * performed on arrays
  */
 public class ArrayUtils {
 
@@ -25,9 +26,9 @@ public class ArrayUtils {
 	}
 
 	/**
-	 * This method is used for searching the given double number in given input double
-	 * array returns the index of input double integer in the array. returns -1 if
-	 * input double integer not found
+	 * This method is used for searching the given double number in given input
+	 * double array returns the index of input double integer in the array. returns
+	 * -1 if input double integer not found
 	 * 
 	 * @param inputArray
 	 * @param searchKey
