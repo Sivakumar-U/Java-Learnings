@@ -4,8 +4,8 @@ package com.siva.loop_examples;
 public class PrintAtoZCharacters {
 
 	public static void main(String[] args) {
-		for(char ch='A'; ch<='Z'; ch++) {
-			System.out.println("character: " +ch);
+		for (char ch = 'A'; ch <= 'Z'; ch++) {
+			System.out.println("character: " + ch + " = " + (int) ch);
 		}
 
 	}
