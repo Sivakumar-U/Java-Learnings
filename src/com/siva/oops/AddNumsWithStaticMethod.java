@@ -5,7 +5,7 @@ public class AddNumsWithStaticMethod {
 
 	public static void main(String[] args) {
 		int res = AddNums.nums(10, 20);
-		System.out.println("Sum: " + res);
+		System.out.println("Sum of : " + res);
 
 	}
 
