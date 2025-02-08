@@ -1,9 +1,13 @@
 package com.siva.oops.encapsulation;
 
+/*
+ * Encapsulation: It is the process of hiding data inside a class and allowing access only through getter and setter methods.
+ * It helps protect data from being changed directly and ensures security and control over data.
+ */
 public class Example1 {
 
 	public static void main(String[] args) {
-		
+
 		// Creating an object
 		Person person = new Person("John", 25);
 
@@ -26,7 +30,7 @@ public class Example1 {
 }
 
 class Person {
-	private String name; // Private variable (cannot be accessed directly) 
+	private String name; // Private variable (cannot be accessed directly)
 	private int age;
 
 	// Constructor
