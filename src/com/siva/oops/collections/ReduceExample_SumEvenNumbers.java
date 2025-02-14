@@ -5,6 +5,9 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Stream;
 
+/*
+ * Program to print Sum of Even Numbers Only.
+ */
 public class ReduceExample_SumEvenNumbers {
 
 	public static void main(String[] args) {
